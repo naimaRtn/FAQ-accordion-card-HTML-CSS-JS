@@ -160,7 +160,7 @@ span{
       
     display: block;
     clip-path: polygon(12% 0, 100% 0, 100% 100%, 12% 100%);
-    width: 350px;
+    width: 450px;
     height: 350px;   
       
     }
@@ -176,7 +176,7 @@ span{
         /* clip-path: polygon(14.2% 0, 100% 0, 100% 100%, 14.2% 100%); */
         position: absolute;  
         top: calc((100% - 350px)/2);
-        right:61.6%;  
+        right: 57.8%;  
         width: 50%;
      
         
@@ -199,9 +199,9 @@ span{
         display: block;
         position:   absolute;
         bottom: 17%;
-        left: 14%;
-        width: 25%;
-        height: 35%;
+        left: 5%;
+        width: 30%;
+        height: 40%;
     }
 
     #head-img-bg-mb{
@@ -209,9 +209,9 @@ span{
     }
     
     span{
-        width: 60%;
-        margin-left: 40%; 
-        margin-right: 4%;
+        width: 50%;
+        margin-left: 50%; 
+        margin-right: 0;
     }
     /* #head-img-bg-dsk{
       display: block;
