@@ -140,7 +140,7 @@ span{
       margin-bottom: 30px;
     }
     main{
-        background: url("/images/bg-pattern-desktop.svg") fixed;
+        background: url("images/bg-pattern-desktop.svg") fixed;
         background-size: contain ;
         background-position: -45% 100%;
         background-repeat:no-repeat;
